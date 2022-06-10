@@ -1,0 +1,3 @@
+org/openmrs/module/maternityapp/page/controller/PostAbortalCarePageController.class
+org/openmrs/module/maternityapp/page/controller/DeliveryNotesPageController.class
+org/openmrs/module/maternityapp/page/controller/TriagePageController.class

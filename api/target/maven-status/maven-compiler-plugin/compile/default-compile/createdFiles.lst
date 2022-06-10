@@ -1,0 +1,6 @@
+org/openmrs/module/maternityapp/MaternityMetadata.class
+org/openmrs/module/maternityapp/MaternityAppModuleActivator.class
+org/openmrs/module/maternityapp/api/MaternityService.class
+org/openmrs/module/maternityapp/api/impl/MaternityServiceImpl.class
+org/openmrs/module/maternityapp/MaternityMetadata$_MaternityConcepts.class
+org/openmrs/module/maternityapp/MaternityMetadata$_MaternityEncounterType.class
